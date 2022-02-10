@@ -20,7 +20,6 @@ export default class MyDocument extends Document {
           />
           <link rel="apple-touch-icon" sizes="192x192" href="/apple-touch-icon.png"/>
           <link rel="manifest" href="/manifest.webmanifest"></link>
-          <title>{name}</title>
           {/* <script async src="https://www.googletagmanager.com/gtag/js?id=G-3S0X8Y5X3J"></script>
           <script
             dangerouslySetInnerHTML={{

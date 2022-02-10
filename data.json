@@ -11,12 +11,12 @@
         ],
         "professionalDetails": [
             {
-                "alt": "Rohit-Kumar",
+                "alt": "rohit-kumar-76991220a",
                 "icon": "linkedin",
                 "link": "https://www.linkedin.com/in/rohit-kumar-76991220a/"
             },
             {
-                "alt": "kausko",
+                "alt": "rollychop",
                 "icon": "github",
                 "link": "https://github.com/rollychop"
             },
@@ -48,7 +48,7 @@
         "Backend, Database and Cloud": [
             "Node.js",
             "Express",
-            "FastAPI",
+            "SpringBoot",
             "MongoDB",
             "MySQL",
             "PostgreSQL",
@@ -75,18 +75,7 @@
     },
     "experience": {
         "Work Experience": [
-            {
-                "organization": "CloudDFN LLP",
-                "role": "Full Stack Developer",
-                "type": "Internship",
-                "startDate": "2020-07-20",
-                "endDate": "2021-01-20",
-                "city": "Mumbai",
-                "state": "Maharashtra",
-                "country": "India",
-                "url": "https://www.linkedin.com/company/clouddfn-llp/",
-                "thumbnail": "/CDFN.jfif"
-            }
+            
         ],
         "Volunteer Experience": [
             

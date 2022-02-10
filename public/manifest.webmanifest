@@ -4,9 +4,9 @@
     "display": "standalone",
     "scope": "https://kaustubhodak.vercel.app/",
     "start_url": "https://kaustubhodak.vercel.app/",
-    "name": "Kaustubh Odak",
+    "name": "Rohit Kumar",
     "short_name": "KO",
-    "description": "Kaustubh Odak's portfolio",
+    "description": "Rohit Kumar's portfolio",
     "icons": [
         {
             "src": "/icon-192x192.png",
