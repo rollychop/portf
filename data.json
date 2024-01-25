@@ -75,7 +75,18 @@
     },
     "experience": {
         "Work Experience": [
-            
+            {
+                "organization": "Invictus Digisoft Pvt. Ltd.",
+                "role": "Android Developer",
+                "type": "Full Time",
+                "startDate": "2023-06-01",
+                "endDate": "current",
+                "city": "Ranchi",
+                "state": "Jharkhand",
+                "country": "India",
+                "url": "https://www.linkedin.com/company/invictusdigisoft/",
+                "thumbnail": "/invc.png"
+            },
         ],
         "Volunteer Experience": [
             
